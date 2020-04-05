@@ -5,7 +5,7 @@ The skin was built and tested using Rainmeter version 4.3.1. You can download th
 
 ### How-To ###
 
-Just click on it, after you installed Rainmeter and it will install and load itself.
+Just click on the downloaded file, after you installed Rainmeter and the skin will install and load itself.
 
 ### License ###
 
