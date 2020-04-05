@@ -1,0 +1,2 @@
+* linguist-vendored
+*.ini linguist-vendored=false
