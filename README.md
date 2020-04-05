@@ -1,7 +1,7 @@
 # Dark Boruto Rainmeter Skin
 
 My first rainmeter skin with dark and light blue colors.
-The skin was built and tested using Rainmeter version 4.3.1. You can download the latest version of Rainmeter from Rainmeter.net. The RMSKIN installer package for these skins can be downloaded from DeviantArt or GitHub.
+The skin was built and tested using Rainmeter version 4.3.1. You can download the latest version of Rainmeter from Rainmeter.net. The RMSKIN installer package for the skin can be downloaded from GitHub releases.
 
 ### How-To ###
 
