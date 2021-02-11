@@ -6,6 +6,8 @@ The skin was built and tested using Rainmeter version 4.3.1. You can download th
 ### How-To ###
 
 Just click on the downloaded file, after you installed Rainmeter and the skin will install and load itself.
+If SysInfo doesn't work as expected, just run fix-sysinfo-no-values.bat by clicking on it.
+It should fix the issue.
 
 ### License ###
 
